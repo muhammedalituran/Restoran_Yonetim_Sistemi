@@ -97,7 +97,7 @@ def masalar():
     for widget in tk.winfo_children():
         widget.destroy()
     btnback = tkinter.Button(tk, text='Geri', command=main)
-    labelmasa = tkinter.Label(tk, text='VKS Masalar').grid(column=1, row=0)
+    labelmasa = tkinter.Label(tk, text='Masalar').grid(column=1, row=0)
     if len(masas['masa1'].show_orders()) > 0:
         d_sol1 = tkinter.Button(tk, text='Dışarı Sol1', cursor='hand2', height=10, width=15, command=lambda: masa_menusu_bir('masa1'), bg='#39FF14').grid(column=0, row=1, sticky='N')
     else:
