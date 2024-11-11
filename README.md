@@ -3,10 +3,12 @@ Bu kod giriş seviyesi restoran/kafe gibi işletmelerde sipariş yönetimi sağl
 
 Sistemin özellikleri
 
-1-Masa Aktarımı
+1-Masa takibi
+
+2-Masas aktarımı yapma
 
 
-2-Sipariş çıktısı alma
+3-Sipariş çıktısı alma
 
 
-3-Günlük kazanç takibi
+4-Günlük kazanç takibi
